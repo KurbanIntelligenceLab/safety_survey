@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+requests
+matplotlib
+umap-learn
+hdbscan
+sentence-transformers   # SPECTER / SciNCL embeddings
+transformers
+torch
+PyMuPDF                 # imported as fitz; full-text section extraction
+anthropic               # optional: external-API route of classify_llm.py

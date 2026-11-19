@@ -1,0 +1,16 @@
+# corpus data, caches and model outputs live outside git (see README, "Data")
+paper_survey/
+paper_survey_v2/
+logs/
+*.npy
+*.pdf
+
+# secrets
+.env
+.openai_key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
